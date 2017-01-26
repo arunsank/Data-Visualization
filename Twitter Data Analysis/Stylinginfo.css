@@ -1,0 +1,70 @@
+div.container {
+    width: 100%;
+    border: 1px black;
+}
+
+header{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+	font: 16px Calibri bold
+}
+
+
+tr:nth-child(7) {
+  font: 16px Calibri bold yellow
+}
+
+footer {
+    padding: 1em;
+    color: Black;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+div.banner {
+    background:url('http://i456.photobucket.com/albums/qq285/dwbrister/Twitter/v65oai7fxn47qv9nectx_reasonably_small.png');
+    width:10%;
+    min-height:145px;
+}
+
+
+div.scriptpart {
+	background-color: blue; }
+
+	
+	
+	
+div.Headinfo {
+	background-color: grey; 
+	width: 100%;
+    border: 1px black;
+}
+
+
+
+button.button {
+    position: fixed;
+    width: 300px;
+    height: 100px;
+	
+
+    left: 50%; /* Starting at 50% */
+    margin-left: -150px; /* 50% of the width of the button */
+
+    top:50%; /* Starting at 50% */
+    margin-top: -50px; /* 50% of the height of the button */
+}
+
+
+
+
+body {
+    
+	font: 16px Calibri bold;
+	
+	
+}

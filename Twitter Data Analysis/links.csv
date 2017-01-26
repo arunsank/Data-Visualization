@@ -1,0 +1,21 @@
+source,target,value
+'@HillaryClinton', 'is',3
+'job', 'to',4
+'@FoxNews:', 'Trump:',5
+'@realDonaldTrump', '@HillaryClinton',6
+'@HillaryClinton', '@realDonaldTrump',9
+'This', 'wears',10
+'man'," '""@HillaryClinton'",11
+'Trump:', 'on',12
+'Orange', 'identity',13
+'protect', '#STOPLIBEL',14
+'#LoveTrumpsHates', '#NeverTrump',15
+'identity', 'catheter!',16
+'wears', '#LoveTrumpsHates',17
+'#NeverTrump', 'Orange',18
+'catheter!', 'face2',19
+'face2', 'protect',21
+'#STOPLIBEL', ':@HillaryClinton',22
+'@NadelParis:', 'This',23
+':@HillaryClinton', 'https:/',24
+'of', 'the',25

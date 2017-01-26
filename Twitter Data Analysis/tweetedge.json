@@ -1,0 +1,36 @@
+"links": [
+    {"source": "Hillary", "target": "FoxNews", "id": 1},
+	{"source": "Trump", "target": "FoxNews", "id": 1},
+    {"source": "@HillaryClinton", "target": "FoxNews", "id": 1},
+    {"source": "@realDonaldTrump", "target": "FoxNews", "id": 1},
+    {"source": "Election", "target": "FoxNews", "id": 1},
+	{"source": "Pence", "target": "FoxNews", "id": 1},
+	{"source": "Great", "target": "FoxNews", "id": 1},
+	{"source": "Louisiana", "target": "FoxNews", "id": 1},
+	
+	{"source": "#TrumpieLogic", "target": "#LoveTrumpsHates", "id": 2},
+	{"source": "#NeverTrump", "target": "#LoveTrumpsHates", "id": 2},
+    {"source": "Wall", "target": "#LoveTrumpsHates", "id": 2},
+    {"source": "protect", "target": "#LoveTrumpsHates", "id": 2},
+	
+	
+	{"source": "wears", "target": "Hillarywin", "id": 3},
+	{"source": "catheter", "target": "Hillarywin", "id": 3},
+	{"source": "orange", "target": "Hillarywin", "id": 3},
+	{"source": "man", "target": "Hillarywin", "id": 3},
+	
+	{"source": "#LoveTrumpsHates", "target": "FoxNews", "id": 1},
+	
+	
+	{"source": "Money", "target": "ClintonCrimeFoundation", "id": 4},
+	{"source": "Tax", "target": "ClintonCrimeFoundation", "id": 4},
+	{"source": "ClintonCrimeFoundation", "target": "Hillarywin", "id": 3},
+	{"source": "FoxNews", "target": "Hillarywin", "id": 3}
+	
+	
+	
+	
+  ]
+  
+  
+  

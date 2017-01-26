@@ -1,0 +1,65 @@
+  "nodes": [
+    {"id": "FoxNews", "group": 1},
+    {"id": "Hillary", "group": 1},
+    {"id": "Trump", "group": 1},
+    {"id": "@HillaryClinton", "group": 1},
+    {"id": "@realDonaldTrump", "group": 1},
+    {"id": "Election", "group": 1},
+    {"id": "Pence", "group": 1},
+    {"id": "Great", "group": 1},
+    {"id": "Louisiana", "group": 1},
+    {"id": "#NeverTrump", "group": 2},
+    {"id": "#TrumpieLogic", "group": 2},
+    {"id": "Hillarywin", "group": 3},
+    {"id": "#LoveTrumpsHates", "group": 2},
+    {"id": "Wall", "group": 2},
+    {"id": "protect", "group": 2},
+    {"id": "wears", "group": 3},
+    {"id": "catheter", "group": 3},
+    {"id": "orange", "group": 3},
+    {"id": "man", "group": 3},
+    {"id": "ClintonCrimeFoundation", "group": 4},
+    {"id": "Money", "group": 4},
+    {"id": "Tax", "group": 4}
+	
+	
+  ]
+  
+
+
+"links": [
+    {"source": "Hillary", "target": "FoxNews", "id": 1},
+	{"source": "Trump", "target": "FoxNews", "id": 1},
+    {"source": "@HillaryClinton", "target": "FoxNews", "id": 1},
+    {"source": "@realDonaldTrump", "target": "FoxNews", "id": 1},
+    {"source": "Election", "target": "FoxNews", "id": 1},
+	{"source": "Pence", "target": "FoxNews", "id": 1},
+	{"source": "Great", "target": "FoxNews", "id": 1},
+	{"source": "Louisiana", "target": "FoxNews", "id": 1},
+	
+	{"source": "#TrumpieLogic", "target": "#LoveTrumpsHates", "id": 2},
+	{"source": "#NeverTrump", "target": "#LoveTrumpsHates", "id": 2},
+    {"source": "Wall", "target": "#LoveTrumpsHates", "id": 2},
+    {"source": "protect", "target": "#LoveTrumpsHates", "id": 2},
+	
+	
+	{"source": "wears", "target": "Hillarywin", "id": 3},
+	{"source": "catheter", "target": "Hillarywin", "id": 3},
+	{"source": "orange", "target": "Hillarywin", "id": 3},
+	{"source": "man", "target": "Hillarywin", "id": 3},
+	
+	{"source": "#LoveTrumpsHates", "target": "FoxNews", "id": 1},
+	
+	
+	{"source": "Money", "target": "ClintonCrimeFoundation", "id": 4},
+	{"source": "Tax", "target": "ClintonCrimeFoundation", "id": 4},
+	{"source": "ClintonCrimeFoundation", "target": "Hillarywin", "id": 3},
+	{"source": "FoxNews", "target": "Hillarywin", "id": 3}
+	
+	
+	
+	
+  ]
+  
+  
+  }

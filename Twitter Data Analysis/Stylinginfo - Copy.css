@@ -1,0 +1,79 @@
+div.container {
+    
+    border: 1px black;
+	float: left;
+    height: 100%;
+    width: auto;
+}
+
+
+
+div.box {
+  background: #EEE;
+  height: 100px;
+  width: 600px;
+}
+
+
+
+
+
+div.div2 {
+  background: #666;
+  height: 100%;
+}
+
+div.clear {
+  clear: both;
+  height: 1px;
+  overflow: hidden;
+  font-size: 0pt;
+  margin-top: -1px;
+}
+
+
+
+header{
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+	font: 16px Calibri bold
+}
+
+
+tr:nth-child(7) {
+  font: 16px Calibri bold yellow
+}
+
+footer {
+    padding: 1em;
+    color: Black;
+    background-color: grey;
+    clear: left;
+    text-align: center;
+}
+
+div.banner {
+    background:url('http://www.tubefilter.com/wp-content/uploads/2009/03/imdb_logo.png');
+     position: absolute;
+    z-index: 2;
+    top: 0px
+    height: 214px;
+    margin: 10px auto 0 auto;
+}
+
+
+div.scriptpart {
+	background-color: blue; }
+
+
+
+
+body {
+    background-color: Grey;
+	font: 16px Calibri bold;
+	
+	
+}
